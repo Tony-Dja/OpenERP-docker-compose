@@ -26,6 +26,7 @@ Récupération des images ODOO et PostGreSQL
 Configuration
 ----------------------
 
+- Création de 2 services => "web" pour le frontend et "db" pour le serveur postgreSQL en backend
 - Exposition du Front sur le port 8069 <br />
 - Création d'un network "odoo_network" <br />
 - Création de 2 volumes Docker => odoo-web-data et odoo-db-data <br />
