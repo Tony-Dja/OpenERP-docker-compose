@@ -35,8 +35,10 @@ Configuration
 Lancement des Containers
 ----------------------
 
-docker-compose up -d<br />
+```
+docker-compose up -d
 docker-compose ps
+```
 
 
 Afficher le site web
